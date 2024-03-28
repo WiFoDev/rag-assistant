@@ -1,0 +1,14 @@
+* {
+  @apply subpixel-antialiased;
+}
+
+html,
+body {
+  @apply size-full
+    [scrollbar-gutter:stable];
+}
+
+body {
+  @apply scroll-smooth
+    font-sans;
+}

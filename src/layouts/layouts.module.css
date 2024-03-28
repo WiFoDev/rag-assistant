@@ -1,0 +1,6 @@
+.baseLayout {
+  @apply grid
+    min-h-screen  
+    grid-cols-[1fr]
+    grid-rows-[auto_1fr_auto];
+}

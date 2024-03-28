@@ -1,0 +1,8 @@
+node_modules
+
+# Next.js & Vercel Directories
+.next
+build
+
+# This file naturally might break conventional rules
+global.d.ts
